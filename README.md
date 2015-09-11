@@ -3,6 +3,8 @@ Easy Photo Gallery
 
 By Gareth Owenson (http://owenson.me)
 
+Demo: http://owenson.me/easyphotoalbum
+
 **Features**
 - Very easy, two steps to get up and running.
 - Extremely fast even for large numbers of images.
